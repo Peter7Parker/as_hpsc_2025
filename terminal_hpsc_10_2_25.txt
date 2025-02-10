@@ -1,0 +1,476 @@
+    1  ub
+    2  cmd
+    3  pwd
+    4  cd
+    5  /
+    6  pwd
+    7  cd home
+    8  cd home/
+    9  ../
+   10  pwd
+   11  .
+   12  ../
+   13  exit
+   14  /
+   15  cd user
+   16  ..
+   17  cd ..
+   18  pwd
+   19  cd home
+   20  ls
+   21  ls -l
+   22  mkdir ankitt
+   23  cd ankitt
+   24  gitinnit
+   25  git
+   26  git --version
+   27  ls
+   28  pwd
+   29  cd home/
+   30  cd
+   31  cd ..
+   32  cd /home
+   33  ls
+   34  rm ankitt
+   35  cd /ankit
+   36  cd /Desktop
+   37  cd~/Desktop
+   38  cd ~/Desktop
+   39  exit
+   40  logout
+   41  ls
+   42  pwd
+   43  sudo -i
+   44  logout
+   45  exit
+   46  ssh ankit@192.168.1.100  # Replace with actual IP
+   47  ls
+   48  pwd
+   49  cd /Desktop
+   50  cd ~/Desktop
+   51  pwd
+   52  ssh ankit@172.28.16.1
+   53  sudo su Ankit
+   54  sudo su ankit
+   55  sudo su Ashok
+   56  sudo su ANKIT
+   57  sudo su
+   58  cd ..
+   59  d
+   60  cd /mnt/d
+   61  ls
+   62  mkdir linux
+   63  ls
+   64  cd linux
+   65  cd ..
+   66  rm linux
+   67  rmdir linux
+   68  ls
+   69  cd ME522/
+   70  clear
+   71  ls
+   72  git init
+   73  ls -a
+   74  ls .git
+   75  touch names.txt
+   76  git status
+   77  git add names.txt
+   78  git status
+   79  git commit -m "names.txt file added"
+   80  git status
+   81  vi names.txt
+   82  cat names.txt 
+   83  git add names.txt
+   84  git status
+   85  git commit -m "names.txt file modified"
+   86  git status
+   87  git log
+   88  rm -rf names.txt
+   89  git status
+   90  git add .
+   91  git commit -m "names.txt file deleted"
+   92  git log
+   93  git reset 4c285df17ff082fb0e920a7ef65f84c082ddf881
+   94  git log
+   95  git status
+   96  git add .
+   97  git status
+   98  touch surnames.txt
+   99  git add .
+  100  git status
+  101  vi surnames.txt 
+  102  touch houses.txt
+  103  git add .
+  104  git status
+  105  git stash
+  106  git status
+  107  clean
+  108  clear
+  109  git log
+  110  cat names.txt
+  111  git stash pop
+  112  git add .
+  113  git stash
+  114  git stash clear
+  115  git remote add origin https://github.com/Peter7Parker/ME522-git
+  116  git remote -v
+  117  git push origin master
+  118  git push origin ME522
+  119  git push origin main
+  120  clear
+  121  git remote add origin https://github.com/Peter7Parker/ME522-git
+  122  git remote -v
+  123  git push origin master
+  124  ssh-keygen -t rsa -b 4096 -C "ankitsharma30072001@gmail.com"
+  125  bash ~/Desktop
+  126  clear
+  127  pwd
+  128  ls -a
+  129  pwd
+  130  ls /mnt/
+  131  cd /mnt/d
+  132  ls
+  133  cd ..
+  134  cd /mnt/c
+  135  ls
+  136  cd /user
+  137  cd Users
+  138  cd ankit
+  139  cd Desktop
+  140  cd ..
+  141  cd default/
+  142  cd Desktop/
+  143  mkdir practice_linux
+  144  touch .txt
+  145  lsattr
+  146  sudo touch
+  147  mkdir ankit_linux
+  148  sudo su
+  149  sudo su Ashok
+  150  sudo su ANKIT SHARMA
+  151  sudo su ANKIT_SHARMA
+  152  sudo su 'ANKIT SHARMA'
+  153  cd /
+  154  pwd
+  155  cd
+  156  pwd
+  157  cd /home
+  158  pwd
+  159  cd /Desktop
+  160  ls
+  161  ls -a
+  162  cd .
+  163  ls
+  164  cd /.
+  165  cd /..
+  166  cd ankitt
+  167  cd /home
+  168  ls -l
+  169  clear
+  170  cd ..
+  171  cd ~
+  172  su
+  173  bash
+  174  pwd
+  175  ls -a
+  176  cd .ssh
+  177  ls
+  178  ls -a
+  179  cd ..
+  180  ls
+  181  cd /home
+  182  ls
+  183  ls -a
+  184  cd /ankitt
+  185  ls
+  186  cd ankitt/
+  187  ls
+  188  pwd
+  189  ls -a
+  190  cd ..
+  191  ls
+  192  ls -a
+  193  cd /mnt/
+  194  ls
+  195  cd d/
+  196  ls
+  197  cd ..
+  198  ls
+  199  ls -a
+  200  ls -l
+  201  cd .
+  202  cd ..
+  203  ls
+  204  cd bin/
+  205  ls
+  206  cd ..
+  207  ls
+  208  cd ..
+  209  cd /mnt/
+  210  cd d
+  211  cd ME522/
+  212  python3
+  213  gitk
+  214  sudo apt install gitk
+  215  clear
+  216  gitk
+  217  cd /mnt/
+  218  cd d
+  219  cd ME522
+  220  ls
+  221  ls -la
+  222  cd .git
+  223  gitk
+  224  clear
+  225  cd ..
+  226  cd ME522/
+  227  python
+  228  python3
+  229  cd ..
+  230  cd c
+  231  ls
+  232  cd -la
+  233  ls -la
+  234  cd ..
+  235  cd d
+  236  ls
+  237  cd ME522
+  238  cd ..
+  239  cd c
+  240  ls
+  241  cd Users/
+  242  ls
+  243  cd ankit
+  244  cd anaconda3
+  245  cd bin
+  246  cd condabin
+  247  source activate
+  248  cd ..
+  249  cd.. 
+  250  cd ..
+  251  cd d
+  252  clear
+  253  cd ME522/
+  254  python3
+  255  ipython
+  256  python3
+  257  clear
+  258  python3
+  259  ls -a
+  260  mkdir -p codes/python/mysqrt
+  261  ls -l
+  262  cd codes/
+  263  cd python/
+  264  cd mysqrt/
+  265  featherpad mysqrt.py
+  266  suda apt install featherpad
+  267  sudo apt install featherpad
+  268  featherpad mysqrt.py
+  269  cat mysqrt.py
+  270  git status
+  271  git add mysqrt.py 
+  272  git status
+  273  git commit -m "my first commit on the mysqrt python script."
+  274  git status
+  275  git branch
+  276  git branch -m main
+  277  git branch
+  278  man git branch
+  279  git remote add origin git@github.com:Peter7Parker/hpsc_2025.git
+  280  git push -u origin main
+  281  ls -al ~/.ssh
+  282  ssh-keygen -t ed25519 -C "ankitsharma30072001@gmail.com"
+  283  ls -al ~/.ssh
+  284  ssh -T git@github.com
+  285  cat ~/.ssh/id_ed25519.pub
+  286  cd ..
+  287  cat ~/.ssh/id_ed25519.pub
+  288  ls -l
+  289  ls -al
+  290  cat ~/.ssh.pub
+  291  cd .ssh.pub
+  292  cd .ssh.pub/
+  293  cd /.ssh/.pub
+  294  cd /.ssh/id_ed25519.pub
+  295  cat ~/.ssh/id_ed25519.pub
+  296  pwd
+  297  ls
+  298  ls -ls
+  299  ls -la
+  300  cd ../
+  301  pwd
+  302  cd home
+  303  ls -la
+  304  cd ankitt/
+  305  ls -al
+  306  mkdir me522
+  307  ls
+  308  cd me522/
+  309  mkdir mysqrt
+  310  cd mysqrt/
+  311  cd ../exit
+  312  pwd
+  313  cd ../
+  314  pwd
+  315  mkdir github
+  316  cd github/
+  317  mkdir as_hpsc_2025
+  318  pwd
+  319  cd as_hpsc_2025/
+  320  mkdir sqrt
+  321  cd sqrt/
+  322  featherpad sqrt.py
+  323  cat sqrt.py
+  324  featherpad sqrt.py
+  325  git add sqrt.py
+  326  git init
+  327  git add sqrt.py
+  328  git status
+  329  git commit -m "sqrt.py is my first git code"
+  330  git branch -m main
+  331  git status
+  332  git remote add origin git@github.com:Peter7Parker/as_hpsc_2025.git
+  333  git push -u origin main
+  334  ls -al/.ssh
+  335  ls -al ~/.ssh
+  336  ssh-keygen -t rsa -b 4096 -C "ankitsharma30072001@gmail.com"
+  337  eval "$(ssh-agent -s)"
+  338  ssh-add ~/.ssh/id_rsa
+  339  ssh-add -l
+  340  cat ~/.ssh/id_rsa.pub
+  341  ssh -T git@github.com
+  342  git status
+  343  git add sqrt.py
+  344  git commit -m "first code"
+  345  git remote -v
+  346  git push origin
+  347  git status
+  348  pwd
+  349  ls
+  350  git push origin
+  351  git push origin main
+  352  git status
+  353  git remote -v
+  354  featherpad sqrt.py
+  355  git add .
+  356  git status
+  357  git commit -m "modified the code of sqrt.py"
+  358  git push -u origin main
+  359  python3
+  360  python sqrt.py 
+  361  python3 sqrt.py 
+  362  cat sqrt.py
+  363  featherpad sqrt.py
+  364  git add .
+  365  git commit -m "resolved the error in the code."
+  366  git push -u origin main
+  367  source .bashrc
+  368  vim .bashrc
+  369  nano
+  370  cd ..
+  371  ls
+  372  cd home
+  373  ls
+  374  cd ankitt
+  375  ls
+  376  cd github
+  377  ls
+  378  cd as_hpsc_2025/
+  379  ls
+  380  cd sqrt
+  381  ls
+  382  git clone https://github.com/Peter7Parker/as_hpsc_2025.git
+  383  ls
+  384  cd as_hpsc_2025/
+  385  ls
+  386  git log
+  387  cat sqrt.py 
+  388  PS1 = '$'
+  389  history
+  390  git log
+  391  echo log
+  392  clear
+  393  cd
+  394  cd /
+  395  cd /home
+  396  ls
+  397  ls -al
+  398  ls .bash*
+  399  cd ankitt/
+  400  ls -al
+  401  cd github/as_hpsc_2025/
+  402  ls -al
+  403  ls .bash*
+  404  cd sqrt/
+  405  ls -al
+  406  vi sqrt.py
+  407  which python
+  408  ipython
+  409  apt install ipython
+  410  ipython
+  411  sudo apt install ipython
+  412  nano sqrt.py
+  413  python3 sqrt.py 
+  414  cat sqrt.pyqrt
+  415  cat sqrt.py 
+  416  vi sqrt.py
+  417  nano sqrt.py
+  418  cat sqrt.py
+  419  python3 sqrt.py
+  420  nano sqrt.py
+  421  python3 sqrt.py
+  422  cd ..
+  423  cd home
+  424  ls
+  425  cd ankitt/github/
+  426  ls
+  427  cd as_hpsc_2025/
+  428  ls
+  429  cd sqrt/
+  430  ls
+  431  cat sqrt
+  432  cat sqrt.py 
+  433  python sqrt.py 
+  434  python3 sqrt.py 
+  435  git status
+  436  git add .
+  437  git status
+  438  git add sqrt.py
+  439  git status
+  440  git commit -m "added printing value of square root at each iteration"
+  441  git log
+  442  git push origin main
+  443  git status
+  444  python3 install numpy
+  445  vim sqrt.py 
+  446  featherpad sqrt.py
+  447  python3 sqrt.py
+  448  featherpad sqrt.py
+  449  python3 sqrt.py
+  450  featherpad sqrt.py
+  451  python3 sqrt.py
+  452  featherpad sqrt.py
+  453  python3 sqrt.py
+  454  featherpad sqrt.py
+  455  python3 sqrt.py
+  456  git add .
+  457  git commit -m "added convergence test"
+  458  git log
+  459  git push origin main
+  460  clear
+  461  python3 sqrt.py
+  462  clear
+  463  sqrt
+  464  python3 sqrt.py
+  465  sqrt2(2)
+  466  sqrt2(2.)
+  467  python3 sqrt2(2.)
+  468  python3
+  469  git status
+  470  git add .
+  471  git commit -m "converted to sqrt2 function"
+  472  git push origin main
+  473  clear
+  474  python3 -V
+  475  history
+  476  history > terminal_hpsc_10_2_25.txt
